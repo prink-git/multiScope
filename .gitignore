@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Packaging / build
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Test / coverage / type-check caches
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+.pyre/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Environment files
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Local temp/runtime files
+tmp/
+temp/
+*.tmp
+
+# Optional model/cache artifacts (local only)
+.cache/
+huggingface/
