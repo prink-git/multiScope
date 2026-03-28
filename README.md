@@ -1,4 +1,4 @@
-# MultiScope — Multimodal Image-Text Retrieval System
+# MultiScope - Multimodal Image-Text Retrieval System
 
 A production-quality deep learning system for computing similarity between images and text descriptions using OpenAI's CLIP model.
 
